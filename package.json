@@ -1,0 +1,13 @@
+{
+  "name": "submodule1",
+  "type": "module",
+  "version": "1.0.10",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "main": "index.js",
+  "scripts": {
+    "release": "release-it"
+  }
+}
