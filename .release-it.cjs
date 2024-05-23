@@ -6,7 +6,7 @@ module.exports = {
           {
             file: '../../apps/app1/package.json',
             path: 'dependencies.submodule1',
-            prefix: 'workspace:',
+            versionPrefix: 'workspace:',
           },
         ],
     },
