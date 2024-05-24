@@ -1,3 +1,3 @@
 export default function () {
-  console.log('submodule1')
+  console.log('submodule1-change')
 }
