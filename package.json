@@ -1,12 +1,15 @@
 {
-  "name": "submodule1",
+  "name": "@gabortorma/submodule1",
   "type": "module",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "",
   "author": "",
   "license": "ISC",
   "keywords": [],
   "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "scripts": {
     "release": "release-it"
   }
