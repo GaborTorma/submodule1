@@ -1,5 +1,5 @@
 {
-  "name": "@gabortorma/submodule1",
+  "name": "submodule1",
   "type": "module",
   "version": "2.2.0",
   "description": "",
