@@ -11,7 +11,7 @@
     "@gabortorma:registry": "https://npm.pkg.github.com"
   },
   "scripts": {
-    "release": "release-it",
-    "postrelease": "pnpm update \"@gabortorma/submodule1\""
+    "release": "release-it"
+
   }
 }
