@@ -1,7 +1,7 @@
 {
   "name": "@gabortorma/submodule1",
   "type": "module",
-  "version": "2.4.6",
+  "version": "2.4.7",
   "description": "",
   "author": "",
   "license": "ISC",
@@ -12,6 +12,5 @@
   },
   "scripts": {
     "release": "release-it"
-
   }
 }
